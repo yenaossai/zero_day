@@ -1,1 +1,1 @@
-This file is mandatory in projects
+Create and setup your Git and Github account
